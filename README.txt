@@ -1,2 +1,1 @@
-The source code for eidy will be here soon.
-For the timebeing this project is a placeholder for releases.
+This is a marker file for the XPRIZE submission eidy.
